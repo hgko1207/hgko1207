@@ -8,7 +8,8 @@
 ### Front-end
 
 - HTML5, CSS3, SASS, JavaScript, TypeScript
-- React, Angular, Webpack
+- React, Next.js
+- Angular, Webpack
 - WPF, Android
 - Bootstrap, JQuery
 
