@@ -16,7 +16,8 @@
 ### Back-end
 
 - Java, Spring MVC, Spring Boot, Spring Security, Spring Data JPA, Querydsl
-- NodeJS, Python, Flask
+- NodeJS, NestJS
+- Python, Flask
 
 ### DevOps
 
@@ -27,3 +28,4 @@
 ### Database
 
 - MySQL, MSSQL, PostgreSQL, Oracle
+- Elasticsearch
