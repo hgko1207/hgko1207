@@ -74,7 +74,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgko1207&count_private=true&show_icons=true&theme=transparent" width="45%"/>
   </a>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&exclude_repo=hgko1207.github.io&langs_count=8&layout=compact&theme=transparent" width="30%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&exclude_repo=hgko1207.github.io,hexo&langs_count=8&layout=compact&theme=transparent" width="30%"/>
   </a>
 
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hgko1207&theme=github" width="76%"/>
