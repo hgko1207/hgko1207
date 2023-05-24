@@ -88,7 +88,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&exclude_repo=hgko1207.github.io,hexo&langs_count=8&layout=compact&theme=transparent" width="33%"/>
   </a>
 
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hgko1207&theme=github" width="83%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hgko1207&theme=github" width="83%"/>
   
   <img align="center" src="https://streak-stats.demolab.com?user=hgko1207&theme=transparent" width="50%"/>
 </div>
