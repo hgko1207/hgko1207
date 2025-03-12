@@ -24,6 +24,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-purple"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
