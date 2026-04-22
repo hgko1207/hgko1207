@@ -16,7 +16,7 @@
 ### About
 
 ```yaml
-name:     "Ko Coding (고현규)"
+name:     "Ko Coding (고형규)"
 role:     "Full-Stack Engineer, 15+ years"
 focus:    ["Web Apps", "Windows Desktop Apps", "AI-assisted dev workflow"]
 tools:    ["Claude Max", "Gemini Pro", "Claude Code"]
@@ -35,7 +35,8 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Claude Opus 4.7 업그레이드 완전 정리 &mdash; 4.6에서 바뀐 점과 업그레이드 판단 기준](https://hgko-dev.tistory.com/559) <sub>2026-04-22</sub>
+<!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.7 업그레이드 완전 정리 &mdash; 4.6에서 바뀐 점과 업그레이드 판단 기준](https://hgko-dev.tistory.com/559) <sub>2026-04-22</sub>
 - [Claude Cowork 자동화 완전 정리 &mdash; 매일 아침 카톡으로 오는 AI 브리핑 만드는 법](https://hgko-dev.tistory.com/558) <sub>2026-04-21</sub>
 - [Google Antigravity 사용법 &mdash; 설치부터 첫 워크스페이스까지 핵심 정리](https://hgko-dev.tistory.com/557) <sub>2026-04-20</sub>
 - [Gemini CLI 사용법 &mdash; 무료로 어디까지 되나, 직접 써보고 정리](https://hgko-dev.tistory.com/556) <sub>2026-04-19</sub>
