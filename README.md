@@ -80,22 +80,46 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📊 GitHub Stats
 
+<!-- 라이트/다크 자동 전환: 뷰어 시스템 테마에 맞춰 이미지 스왑 -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hgko1207&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&layout=compact&langs_count=8&exclude_repo=hgko1207.github.io,hexo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hgko1207&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hgko1207&show_icons=true&count_private=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&layout=compact&langs_count=8&exclude_repo=hgko1207.github.io,hexo&theme=tokyonight&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&layout=compact&langs_count=8&exclude_repo=hgko1207.github.io,hexo&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hgko1207&theme=tokyonight&hide_border=true&background=0D1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hgko1207&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=hgko1207&theme=default&hide_border=true" />
+  </picture>
 </div>
 
-<!-- Snake contribution animation (output 브랜치 SVG 참조) -->
+---
+
+### 📈 Activity Graph
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hgko1207/hgko1207/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hgko1207&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgko1207&theme=minimal&hide_border=true&area=true" />
+  </picture>
+</div>
+
+---
+
+### 🏙 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hgko1207/hgko1207/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
 ---
 
 <p align="center">
-  <sub>⚡ Updated automatically — blog posts sync every 6h, snake regenerates every 12h.</sub>
+  <sub>⚡ Updated automatically — blog posts every 6h, 3D contribution daily, light/dark theme auto-switches.</sub>
 </p>
