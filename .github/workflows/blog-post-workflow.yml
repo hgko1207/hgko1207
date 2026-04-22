@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://hgko-dev.tistory.com/rss"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>— $newline$description</sub>"
+          commit_message: "chore: sync latest blog posts"

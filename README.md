@@ -1,95 +1,96 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text=KoCoding%20Github&fontSize=50&fontAlign=70" />
-
-## :rainbow: About me
-
-- 맡은 일에 책임감을 가지고 성실하게 일합니다. 새로운 기술에 거부감은 없으며, 가리지 않고 하고 싶은 개발을 하고 있습니다.
-- 현재는 웹과 윈도우 프로그램 개발을 주로 하고 있습니다.
-  
-## :wrench: Skills
-#### Front-end
-
+<!-- Header: Typing SVG -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-purple"/>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-</div>
-
-#### Back-end
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringMVC-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-</div>
-  
-#### DevOps
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-</div>
-
-#### Database
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-</div>
-
-#### Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-33DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-</div>
-
-## :computer: Github Stats
-
-<div align="center">
-  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgko1207&count_private=true&show_icons=true&theme=transparent" width="50%"/>
+  <a href="https://hgko-dev.tistory.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ko+Coding+%F0%9F%91%8B;15%2B+yrs+Full-Stack+Engineer;Web+%26+Windows+App+Developer;Writing+at+hgko-dev.tistory.com" alt="typing header" />
   </a>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&exclude_repo=hgko1207.github.io,hexo&langs_count=8&layout=compact&theme=transparent" width="33%"/>
-  </a>
-
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hgko1207&theme=github" width="83%"/>
-  
-  <img align="center" src="https://streak-stats.demolab.com?user=hgko1207&theme=transparent" width="50%"/>
 </div>
+
+<p align="center">
+  <a href="https://hgko-dev.tistory.com/"><img src="https://img.shields.io/badge/Blog-규니의_개발_블로그-FF5A5F?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+  <a href="https://hgko1207.github.io/"><img src="https://img.shields.io/badge/GitHub_Pages-hgko1207.github.io-222?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:hgko1207@gmail.com"><img src="https://img.shields.io/badge/Email-hgko1207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About
+
+```yaml
+name:     "Ko Coding (고현규)"
+role:     "Full-Stack Engineer, 15+ years"
+focus:    ["Web Apps", "Windows Desktop Apps", "AI-assisted dev workflow"]
+tools:    ["Claude Max", "Gemini Pro", "Claude Code"]
+writing:  "hgko-dev.tistory.com — 4년째 기술 블로그 운영 중"
+motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
+```
+
+---
+
+### 🛠 Currently Building
+
+- **[claude-code-blog-builder](https://github.com/hgko1207/claude-code-blog-builder)** — Claude Code 기반 블로그 자동화 (키워드 → 리서치 → 초안 → 이미지 → 검증)
+- AI 페어 프로그래밍 워크플로우 실험 (Claude + Gemini 병행 운용)
+- 블로그 운영 4년차, AI 개발 도구 실전 사용기 시리즈 연재 중
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
+
+---
+
+### 🧰 Tech Stack
+
+**Front-end** &nbsp;
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Back-end** &nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white)
+
+**Desktop & DevOps** &nbsp;
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Database** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![ES](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hgko1207&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgko1207&layout=compact&langs_count=8&exclude_repo=hgko1207.github.io,hexo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hgko1207&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<!-- Snake contribution animation (output 브랜치 SVG 참조) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hgko1207/hgko1207/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<p align="center">
+  <sub>⚡ Updated automatically — blog posts sync every 6h, snake regenerates every 12h.</sub>
+</p>
