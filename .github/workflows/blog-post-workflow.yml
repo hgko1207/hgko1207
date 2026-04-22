@@ -17,7 +17,9 @@ jobs:
         with:
           feed_list: "https://hgko-dev.tistory.com/rss"
           max_post_count: 5
-          template: "- [$title]($url) <sub>— $newline$description</sub>"
+          template: "- [$title]($url) <sub>— $date</sub>"
+          date_format: "yyyy-mm-dd"
+          disable_html_encoding: true
           commit_message: "chore: sync latest blog posts"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           accept_header: "*/*"
