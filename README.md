@@ -112,14 +112,6 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ---
 
-### 🏙 3D Contribution Skyline
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hgko1207/hgko1207/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</div>
-
----
-
 <p align="center">
-  <sub>⚡ Updated automatically — blog posts every 6h, 3D contribution daily, light/dark theme auto-switches.</sub>
+  <sub>⚡ Updated automatically — blog posts every 6h, light/dark theme auto-switches.</sub>
 </p>
