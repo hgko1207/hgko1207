@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [GPT-5.5 vs Claude Opus 4.7 &mdash; 벤치마크 6:4와 실비용 차이로 본 모델 라우팅](https://hgko-dev.tistory.com/561) <sub>2026-04-27</sub>
+<!-- BLOG-POST-LIST:START -->- [Vercel 침해 사고 분석 &mdash; Context.ai 공급망 공격으로 본 SaaS 보안 점검 5가지](https://hgko-dev.tistory.com/562) <sub>2026-04-28</sub>
+- [GPT-5.5 vs Claude Opus 4.7 &mdash; 벤치마크 6:4와 실비용 차이로 본 모델 라우팅](https://hgko-dev.tistory.com/561) <sub>2026-04-27</sub>
 - [Claude Code 활용법 정리 &mdash; 망치는 습관 3개와 살리는 습관 7개](https://hgko-dev.tistory.com/560) <sub>2026-04-26</sub>
 - [Claude Opus 4.7 업그레이드 완전 정리 &mdash; 4.6에서 바뀐 점과 업그레이드 판단 기준](https://hgko-dev.tistory.com/559) <sub>2026-04-22</sub>
 - [Claude Cowork 자동화 완전 정리 &mdash; 매일 아침 카톡으로 오는 AI 브리핑 만드는 법](https://hgko-dev.tistory.com/558) <sub>2026-04-21</sub>
-- [Google Antigravity 사용법 &mdash; 설치부터 첫 워크스페이스까지 핵심 정리](https://hgko-dev.tistory.com/557) <sub>2026-04-20</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
