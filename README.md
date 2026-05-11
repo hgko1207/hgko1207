@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [개발자 필수 CLI 도구 13가지 &mdash; 하루 워크플로우 순서대로 정리](https://hgko-dev.tistory.com/567) <sub>2026-05-10</sub>
+<!-- BLOG-POST-LIST:START -->- [gstack 실전 사례 &mdash; 30분 안에 MVP 만들기 (Pomodoro 타이머 + 통계 위젯)](https://hgko-dev.tistory.com/568) <sub>2026-05-11</sub>
+- [개발자 필수 CLI 도구 13가지 &mdash; 하루 워크플로우 순서대로 정리](https://hgko-dev.tistory.com/567) <sub>2026-05-10</sub>
 - [카파시 CLAUDE.md &mdash; GitHub 10만 스타 받은 65줄 파일 정리](https://hgko-dev.tistory.com/566) <sub>2026-05-08</sub>
 - [2026 VS Code 확장 15가지 &mdash; 개발자가 진짜 쓰는 BEST](https://hgko-dev.tistory.com/565) <sub>2026-05-07</sub>
 - [2026 개발자가 진짜 북마크해야 할 GitHub Repo 25가지 &mdash; 카테고리별 정리](https://hgko-dev.tistory.com/564) <sub>2026-05-06</sub>
-- [크롬 제미나이 한국 출시 &mdash; 사이드바&middot;유튜브 요약&middot;다중 탭까지 실제 써보고 정리](https://hgko-dev.tistory.com/563) <sub>2026-05-05</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
