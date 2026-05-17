@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [2026 VS Code 테마 BEST 13가지 &mdash; 다크&middot;라이트&middot;컬러 특화 분류 정리 (갱신판)](https://hgko-dev.tistory.com/570) <sub>2026-05-14</sub>
+<!-- BLOG-POST-LIST:START -->- [gstack 트러블슈팅 5가지 &mdash; 1~2시간 날리기 전에 확인할 것들](https://hgko-dev.tistory.com/571) <sub>2026-05-17</sub>
+- [2026 VS Code 테마 BEST 13가지 &mdash; 다크&middot;라이트&middot;컬러 특화 분류 정리 (갱신판)](https://hgko-dev.tistory.com/570) <sub>2026-05-14</sub>
 - [Windows 11 개발 환경 세팅 &mdash; 14가지 필수 설치 체크리스트 (2026)](https://hgko-dev.tistory.com/569) <sub>2026-05-12</sub>
 - [gstack 실전 사례 &mdash; 30분 안에 MVP 만들기 (Pomodoro 타이머 + 통계 위젯)](https://hgko-dev.tistory.com/568) <sub>2026-05-11</sub>
 - [개발자 필수 CLI 도구 13가지 &mdash; 하루 워크플로우 순서대로 정리](https://hgko-dev.tistory.com/567) <sub>2026-05-10</sub>
-- [카파시 CLAUDE.md &mdash; GitHub 10만 스타 받은 65줄 파일 정리](https://hgko-dev.tistory.com/566) <sub>2026-05-08</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
