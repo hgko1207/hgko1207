@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [WSL2 트러블슈팅 8가지 &mdash; 에러 코드별 증상&middot;원인&middot;해결 정리](https://hgko-dev.tistory.com/574) <sub>2026-05-27</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude&middot;ChatGPT&middot;Gemini 작업별 분업법 &mdash; 어떤 AI에 뭘 맡길까](https://hgko-dev.tistory.com/575) <sub>2026-05-30</sub>
+- [WSL2 트러블슈팅 8가지 &mdash; 에러 코드별 증상&middot;원인&middot;해결 정리](https://hgko-dev.tistory.com/574) <sub>2026-05-27</sub>
 - [gstack 슬래시 커맨드 BEST 10가지 &mdash; 기획부터 배포까지 순서대로](https://hgko-dev.tistory.com/573) <sub>2026-05-25</sub>
 - [Claude Max 3개월 진하게 써본 후기 &mdash; 월 $110 본전 뽑은 사용 패턴 7가지](https://hgko-dev.tistory.com/572) <sub>2026-05-20</sub>
 - [gstack 트러블슈팅 5가지 &mdash; 1~2시간 날리기 전에 확인할 것들](https://hgko-dev.tistory.com/571) <sub>2026-05-17</sub>
-- [2026 VS Code 테마 BEST 13가지 &mdash; 다크&middot;라이트&middot;컬러 특화 분류 정리 (갱신판)](https://hgko-dev.tistory.com/570) <sub>2026-05-14</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
