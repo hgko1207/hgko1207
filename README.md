@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [VS Code 단축키 BEST 20가지 &mdash; 마우스 없이 도는 워크플로우 순서대로](https://hgko-dev.tistory.com/577) <sub>2026-06-03</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Opus 4.8 Effort Control 실전 활용 &mdash; 작업별 5단계 매핑 가이드](https://hgko-dev.tistory.com/578) <sub>2026-06-04</sub>
+- [VS Code 단축키 BEST 20가지 &mdash; 마우스 없이 도는 워크플로우 순서대로](https://hgko-dev.tistory.com/577) <sub>2026-06-03</sub>
 - [Claude Opus 4.8 출시 정리 &mdash; Effort Control&middot;Dynamic Workflows&middot;코딩 정밀도 4배](https://hgko-dev.tistory.com/576) <sub>2026-06-02</sub>
 - [Claude&middot;ChatGPT&middot;Gemini 작업별 분업법 &mdash; 어떤 AI에 뭘 맡길까](https://hgko-dev.tistory.com/575) <sub>2026-05-30</sub>
 - [WSL2 트러블슈팅 8가지 &mdash; 에러 코드별 증상&middot;원인&middot;해결 정리](https://hgko-dev.tistory.com/574) <sub>2026-05-27</sub>
-- [gstack 슬래시 커맨드 BEST 10가지 &mdash; 기획부터 배포까지 순서대로](https://hgko-dev.tistory.com/573) <sub>2026-05-25</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
