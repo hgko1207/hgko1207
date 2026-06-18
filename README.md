@@ -37,7 +37,7 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->- [VS Code Git 확장 BEST 10 &mdash; 풀스택 매일 쓰는 실전 순서](https://hgko-dev.tistory.com/586) <sub>2026-06-18</sub>
 - [CLAUDE.md vs AGENTS.md vs .cursorrules &mdash; AI 에이전트 가이드 파일 3종 비교 2026](https://hgko-dev.tistory.com/585) <sub>2026-06-17</sub>
-- [CLAUDE.md 작성법 &mdash; 카파시 65줄을 본인 프로젝트에 맞게 변형하는 5단계](https://hgko-dev.tistory.com/584) <sub>2026-06-16</sub>
+- [CLAUDE.md 작성법 &mdash; 카파시 65줄을 프로젝트에 맞게 변형하는 5단계](https://hgko-dev.tistory.com/584) <sub>2026-06-16</sub>
 - [Sentry vs Datadog vs New Relic &mdash; 한국 스타트업 모니터링 도구 비교 2026](https://hgko-dev.tistory.com/583) <sub>2026-06-15</sub>
 - [토스페이먼츠 vs 포트원 vs Stripe &mdash; 한국 결제 통합 풀스택 비교 2026](https://hgko-dev.tistory.com/582) <sub>2026-06-12</sub>
 <!-- BLOG-POST-LIST:END -->
