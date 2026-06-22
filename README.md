@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [도메인 종류 가이드 &mdash; .com&middot;.net&middot;.co.kr&middot;.io&middot;.ai&middot;.dev 차이와 선택법](https://hgko-dev.tistory.com/587) <sub>2026-06-19</sub>
+<!-- BLOG-POST-LIST:START -->- [gstack 누적 사용 후기 &mdash; 매일 손이 가는 패턴 7가지](https://hgko-dev.tistory.com/588) <sub>2026-06-22</sub>
+- [도메인 종류 가이드 &mdash; .com&middot;.net&middot;.co.kr&middot;.io&middot;.ai&middot;.dev 차이와 선택법](https://hgko-dev.tistory.com/587) <sub>2026-06-19</sub>
 - [VS Code Git 확장 BEST 10 &mdash; 풀스택 매일 쓰는 실전 순서](https://hgko-dev.tistory.com/586) <sub>2026-06-18</sub>
 - [CLAUDE.md vs AGENTS.md vs .cursorrules &mdash; AI 에이전트 가이드 파일 3종 비교 2026](https://hgko-dev.tistory.com/585) <sub>2026-06-17</sub>
 - [CLAUDE.md 작성법 &mdash; 카파시 65줄을 프로젝트에 맞게 변형하는 5단계](https://hgko-dev.tistory.com/584) <sub>2026-06-16</sub>
-- [Sentry vs Datadog vs New Relic &mdash; 한국 스타트업 모니터링 도구 비교 2026](https://hgko-dev.tistory.com/583) <sub>2026-06-15</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
