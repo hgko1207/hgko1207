@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [yarn vs npm vs pnpm &mdash; 설치 속도&middot;디스크&middot;monorepo 실측 비교](https://hgko-dev.tistory.com/589) <sub>2026-06-23</sub>
+<!-- BLOG-POST-LIST:START -->- [AWS 비용 절감 10가지 &mdash; 1년 운영 실비용으로 본 우선순위](https://hgko-dev.tistory.com/590) <sub>2026-06-27</sub>
+- [yarn vs npm vs pnpm &mdash; 설치 속도&middot;디스크&middot;monorepo 실측 비교](https://hgko-dev.tistory.com/589) <sub>2026-06-23</sub>
 - [gstack 누적 사용 후기 &mdash; 매일 손이 가는 패턴 7가지](https://hgko-dev.tistory.com/588) <sub>2026-06-22</sub>
 - [도메인 종류 가이드 &mdash; .com&middot;.net&middot;.co.kr&middot;.io&middot;.ai&middot;.dev 차이와 선택법](https://hgko-dev.tistory.com/587) <sub>2026-06-19</sub>
 - [VS Code Git 확장 BEST 10 &mdash; 풀스택 매일 쓰는 실전 순서](https://hgko-dev.tistory.com/586) <sub>2026-06-18</sub>
-- [CLAUDE.md vs AGENTS.md vs .cursorrules &mdash; AI 에이전트 가이드 파일 3종 비교 2026](https://hgko-dev.tistory.com/585) <sub>2026-06-17</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
