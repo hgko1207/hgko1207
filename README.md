@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [개발팀 SaaS 도구 12가지 &mdash; 5인 팀 실비용 매트릭스 (무료 조합)](https://hgko-dev.tistory.com/591) <sub>2026-06-28</sub>
+<!-- BLOG-POST-LIST:START -->- [JWT&middot;OAuth2&middot;세션 + 인증 SaaS 비교 &mdash; 백엔드 인증 방식 선택 기준](https://hgko-dev.tistory.com/592) <sub>2026-07-01</sub>
+- [개발팀 SaaS 도구 12가지 &mdash; 5인 팀 실비용 매트릭스 (무료 조합)](https://hgko-dev.tistory.com/591) <sub>2026-06-28</sub>
 - [AWS 비용 절감 10가지 &mdash; 1년 운영 실비용으로 본 우선순위](https://hgko-dev.tistory.com/590) <sub>2026-06-27</sub>
 - [yarn vs npm vs pnpm &mdash; 설치 속도&middot;디스크&middot;monorepo 실측 비교](https://hgko-dev.tistory.com/589) <sub>2026-06-23</sub>
 - [gstack 누적 사용 후기 &mdash; 매일 손이 가는 패턴 7가지](https://hgko-dev.tistory.com/588) <sub>2026-06-22</sub>
-- [도메인 종류 가이드 &mdash; .com&middot;.net&middot;.co.kr&middot;.io&middot;.ai&middot;.dev 차이와 선택법](https://hgko-dev.tistory.com/587) <sub>2026-06-19</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
