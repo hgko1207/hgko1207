@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Vercel vs Cloudflare vs Netlify &mdash; 호스팅 실비용 비교](https://hgko-dev.tistory.com/593) <sub>2026-07-02</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Code 서브에이전트 실전 배치 &mdash; 역할 분리부터 병렬 3~5개 스윗스팟까지](https://hgko-dev.tistory.com/594) <sub>2026-07-06</sub>
+- [Vercel vs Cloudflare vs Netlify &mdash; 호스팅 실비용 비교](https://hgko-dev.tistory.com/593) <sub>2026-07-02</sub>
 - [JWT&middot;OAuth2&middot;세션 + 인증 SaaS 비교 &mdash; 백엔드 인증 방식 선택 기준](https://hgko-dev.tistory.com/592) <sub>2026-07-01</sub>
 - [개발팀 SaaS 도구 12가지 &mdash; 5인 팀 실비용 매트릭스 (무료 조합)](https://hgko-dev.tistory.com/591) <sub>2026-06-28</sub>
 - [AWS 비용 절감 10가지 &mdash; 1년 운영 실비용으로 본 우선순위](https://hgko-dev.tistory.com/590) <sub>2026-06-27</sub>
-- [yarn vs npm vs pnpm &mdash; 설치 속도&middot;디스크&middot;monorepo 실측 비교](https://hgko-dev.tistory.com/589) <sub>2026-06-23</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
