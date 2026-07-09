@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Spring Boot 3에서 4로 마이그레이션 &mdash; 실제로 깨지는 7가지와 해결](https://hgko-dev.tistory.com/596) <sub>2026-07-08</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Code Hooks 실전 &mdash; 포맷&middot;위험 명령 차단&middot;알림 자동화 5가지](https://hgko-dev.tistory.com/597) <sub>2026-07-09</sub>
+- [Spring Boot 3에서 4로 마이그레이션 &mdash; 실제로 깨지는 7가지와 해결](https://hgko-dev.tistory.com/596) <sub>2026-07-08</sub>
 - [Claude Sonnet 5 vs Opus 4.8 &mdash; 기본 모델 바뀌었는데 Opus 계속 써도 되나](https://hgko-dev.tistory.com/595) <sub>2026-07-07</sub>
 - [Claude Code 서브에이전트 실전 배치 &mdash; 역할 분리부터 병렬 3~5개 스윗스팟까지](https://hgko-dev.tistory.com/594) <sub>2026-07-06</sub>
 - [Vercel vs Cloudflare vs Netlify &mdash; 호스팅 실비용 비교](https://hgko-dev.tistory.com/593) <sub>2026-07-02</sub>
-- [JWT&middot;OAuth2&middot;세션 + 인증 SaaS 비교 &mdash; 백엔드 인증 방식 선택 기준](https://hgko-dev.tistory.com/592) <sub>2026-07-01</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
