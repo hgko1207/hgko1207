@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [MCP 서버 직접 만들기 &mdash; Claude Code에 내 도구 붙이기](https://hgko-dev.tistory.com/600) <sub>2026-07-16</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Code 플러그인 만들기 &mdash; 스킬&middot;훅&middot;MCP를 하나로 묶어 배포하기](https://hgko-dev.tistory.com/601) <sub>2026-07-21</sub>
+- [MCP 서버 직접 만들기 &mdash; Claude Code에 내 도구 붙이기](https://hgko-dev.tistory.com/600) <sub>2026-07-16</sub>
 - [Node.js 24로 .ts 파일 바로 실행 &mdash; ts-node&middot;nodemon 없이 되는 것과 안 되는 것](https://hgko-dev.tistory.com/599) <sub>2026-07-15</sub>
 - [Claude Code에 MCP 서버 연동하기 &mdash; 노션&middot;GitHub&middot;Sentry 붙이는 법](https://hgko-dev.tistory.com/598) <sub>2026-07-10</sub>
 - [Claude Code Hooks 실전 &mdash; 포맷&middot;위험 명령 차단&middot;알림 자동화 5가지](https://hgko-dev.tistory.com/597) <sub>2026-07-09</sub>
-- [Spring Boot 3에서 4로 마이그레이션 &mdash; 실제로 깨지는 7가지와 해결](https://hgko-dev.tistory.com/596) <sub>2026-07-08</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
