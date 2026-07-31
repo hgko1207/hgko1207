@@ -16,7 +16,7 @@
 ### About
 
 ```yaml
-name:     "Ko Coding (고형규)"
+name:     "Ko Coding (고형균)"
 role:     "Full-Stack Engineer, 15+ years"
 focus:    ["Web Apps", "Windows Desktop Apps", "AI-assisted dev workflow"]
 tools:    ["Claude Max", "Gemini Pro", "Claude Code"]
