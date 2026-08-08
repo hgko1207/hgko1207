@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [.NET 10 마이그레이션 &mdash; net10.0로 올릴 때 막히는 7가지와 대응](https://hgko-dev.tistory.com/602) <sub>2026-08-04</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Opus 5 &mdash; 4.8에서 뭐가 달라졌나, 지금 옮겨야 하나](https://hgko-dev.tistory.com/603) <sub>2026-08-08</sub>
+- [.NET 10 마이그레이션 &mdash; net10.0로 올릴 때 막히는 7가지와 대응](https://hgko-dev.tistory.com/602) <sub>2026-08-04</sub>
 - [Claude Code 플러그인 만들기 &mdash; 스킬&middot;훅&middot;MCP를 하나로 묶어 배포하기](https://hgko-dev.tistory.com/601) <sub>2026-07-21</sub>
 - [MCP 서버 직접 만들기 &mdash; Claude Code에 내 도구 붙이기](https://hgko-dev.tistory.com/600) <sub>2026-07-16</sub>
 - [Node.js 24로 .ts 파일 바로 실행 &mdash; ts-node&middot;nodemon 없이 되는 것과 안 되는 것](https://hgko-dev.tistory.com/599) <sub>2026-07-15</sub>
-- [Claude Code에 MCP 서버 연동하기 &mdash; 노션&middot;GitHub&middot;Sentry 붙이는 법](https://hgko-dev.tistory.com/598) <sub>2026-07-10</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
