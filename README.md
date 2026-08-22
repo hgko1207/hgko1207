@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [클로드 디자인(Claude Design) 사용법 &mdash; 말 한마디로 발표 슬라이드 만들기](https://hgko-dev.tistory.com/609) <sub>2026-08-21</sub>
+<!-- BLOG-POST-LIST:START -->- [AI 디자인 도구 3개 정리 &mdash; gstack&middot;Claude Design&middot;Impeccable, 언제 뭘 쓰나](https://hgko-dev.tistory.com/610) <sub>2026-08-22</sub>
+- [클로드 디자인(Claude Design) 사용법 &mdash; 말 한마디로 발표 슬라이드 만들기](https://hgko-dev.tistory.com/609) <sub>2026-08-21</sub>
 - [AI에게 테스트 코드 제대로 짜게 하는 법 &mdash; 통과해도 못 믿는 함정 4가지](https://hgko-dev.tistory.com/608) <sub>2026-08-20</sub>
 - [개발할 땐 Claude, 조사할 땐 Gemini &mdash; 두 AI 병행 실사용 후기](https://hgko-dev.tistory.com/607) <sub>2026-08-19</sub>
 - [AI가 짠 코드 리뷰하는 법 &mdash; 겉보기 멀쩡한데 틀린 코드 잡는 6단계](https://hgko-dev.tistory.com/606) <sub>2026-08-18</sub>
-- [AI에게 코딩 제대로 시키는 법 &mdash; 프롬프트를 '스펙'으로 쓰는 5가지](https://hgko-dev.tistory.com/605) <sub>2026-08-17</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
