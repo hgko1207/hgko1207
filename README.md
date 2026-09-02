@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [개발 반복 잡무 AI로 넘기기 7가지 &mdash; 커밋 메시지&middot;changelog&middot;문서](https://hgko-dev.tistory.com/614) <sub>2026-08-31</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Fable 5.1 정리 &mdash; 5에서 바뀐 점과 가격](https://hgko-dev.tistory.com/615) <sub>2026-09-02</sub>
+- [개발 반복 잡무 AI로 넘기기 7가지 &mdash; 커밋 메시지&middot;changelog&middot;문서](https://hgko-dev.tistory.com/614) <sub>2026-08-31</sub>
 - [클로드 디자인으로 기존 PPT&middot;문서 개선하기 &mdash; 밋밋한 자료 올려서 다시 디자인](https://hgko-dev.tistory.com/613) <sub>2026-08-27</sub>
 - [클로드 디자인 템플릿 14개 정리 &mdash; 뭘 언제 골라야 하나](https://hgko-dev.tistory.com/612) <sub>2026-08-26</sub>
 - [클로드 디자인으로 UI 목업 만들기 &mdash; 화면 시안부터 실제 코드까지](https://hgko-dev.tistory.com/611) <sub>2026-08-24</sub>
-- [AI 디자인 도구 3개 정리 &mdash; gstack&middot;Claude Design&middot;Impeccable, 언제 뭘 쓰나](https://hgko-dev.tistory.com/610) <sub>2026-08-22</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
