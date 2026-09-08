@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Claude로 자료조사 제대로 하는 법 &mdash; 환각&middot;가짜 출처 거르기](https://hgko-dev.tistory.com/617) <sub>2026-09-07</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude 코워크로 보고서&middot;PPT 만들기 &mdash; 폴더 지정부터 .pptx 파일까지](https://hgko-dev.tistory.com/618) <sub>2026-09-08</sub>
+- [Claude로 자료조사 제대로 하는 법 &mdash; 환각&middot;가짜 출처 거르기](https://hgko-dev.tistory.com/617) <sub>2026-09-07</sub>
 - [AI 코딩용 VS Code 확장 8가지 &mdash; 실제 쓰는 조합과 트레이드오프 (2026)](https://hgko-dev.tistory.com/616) <sub>2026-09-03</sub>
 - [Claude Fable 5.1 정리 &mdash; 5에서 바뀐 점과 가격](https://hgko-dev.tistory.com/615) <sub>2026-09-02</sub>
 - [개발 반복 잡무 AI로 넘기기 7가지 &mdash; 커밋 메시지&middot;changelog&middot;문서](https://hgko-dev.tistory.com/614) <sub>2026-08-31</sub>
-- [클로드 디자인으로 기존 PPT&middot;문서 개선하기 &mdash; 밋밋한 자료 올려서 다시 디자인](https://hgko-dev.tistory.com/613) <sub>2026-08-27</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
