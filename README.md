@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Gemini 3.8 Flash 정리 &mdash; GPT&middot;Claude의 1/13 가격, 근데 플래그십은?](https://hgko-dev.tistory.com/621) <sub>2026-09-13</sub>
+<!-- BLOG-POST-LIST:START -->- [Windows Terminal 커스터마이징 &mdash; oh-my-posh로 프롬프트 5분 세팅](https://hgko-dev.tistory.com/622) <sub>2026-09-17</sub>
+- [Gemini 3.8 Flash 정리 &mdash; GPT&middot;Claude의 1/13 가격, 근데 플래그십은?](https://hgko-dev.tistory.com/621) <sub>2026-09-13</sub>
 - [GPT-6 Astra vs Claude Fable 5.1 &mdash; 가격&middot;컨텍스트&middot;강점 비교](https://hgko-dev.tistory.com/620) <sub>2026-09-11</sub>
 - [Graphify 사용법 &mdash; Claude Code 토큰 아끼는 코드 지식 그래프](https://hgko-dev.tistory.com/619) <sub>2026-09-09</sub>
 - [Claude 코워크로 보고서&middot;PPT 만들기 &mdash; 폴더 지정부터 .pptx 파일까지](https://hgko-dev.tistory.com/618) <sub>2026-09-08</sub>
-- [Claude로 자료조사 제대로 하는 법 &mdash; 환각&middot;가짜 출처 거르기](https://hgko-dev.tistory.com/617) <sub>2026-09-07</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
