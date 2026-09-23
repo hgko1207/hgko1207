@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Claude Max 가격 정리 &mdash; Pro와 뭐가 다르고 누가 써야 하나](https://hgko-dev.tistory.com/626) <sub>2026-09-22</sub>
+<!-- BLOG-POST-LIST:START -->- [Jev AI 정리 &mdash; ChatGPT&middot;Claude 대체 아닌 '판단 부품' 모델](https://hgko-dev.tistory.com/627) <sub>2026-09-23</sub>
+- [Claude Max 가격 정리 &mdash; Pro와 뭐가 다르고 누가 써야 하나](https://hgko-dev.tistory.com/626) <sub>2026-09-22</sub>
 - [AI에 코딩 전적으로 맡기는 실전 워크플로 &mdash; 계획부터 자동 검증까지](https://hgko-dev.tistory.com/625) <sub>2026-09-21</sub>
 - [GPT-6 Astra, 개발자 후기로 본 진짜 강점과 과장](https://hgko-dev.tistory.com/624) <sub>2026-09-20</sub>
 - [개발자 AI 도구, 진짜 챙길 것과 거를 것 (2026 지형)](https://hgko-dev.tistory.com/623) <sub>2026-09-19</sub>
-- [Windows Terminal 커스터마이징 &mdash; oh-my-posh로 프롬프트 5분 세팅](https://hgko-dev.tistory.com/622) <sub>2026-09-17</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
