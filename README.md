@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Claude 스킬 만들기 &mdash; 반복 작업을 SKILL.md 하나로 (5분)](https://hgko-dev.tistory.com/630) <sub>2026-09-29</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Opus 5.5 프롬프트 팁 7가지 &mdash; CLAUDE.md에 넣을 문장까지](https://hgko-dev.tistory.com/631) <sub>2026-09-30</sub>
+- [Claude 스킬 만들기 &mdash; 반복 작업을 SKILL.md 하나로 (5분)](https://hgko-dev.tistory.com/630) <sub>2026-09-29</sub>
 - [스킬 vs 에이전트 &mdash; 에이전트 말고 스킬? 언제 뭘 쓰나](https://hgko-dev.tistory.com/629) <sub>2026-09-28</sub>
 - [Claude Code 업데이트, 지금 켜둘 것 6가지 (매주 쏟아지는 것 중)](https://hgko-dev.tistory.com/628) <sub>2026-09-27</sub>
 - [Jev AI 정리 &mdash; ChatGPT&middot;Claude 대체 아닌 '판단 부품' 모델](https://hgko-dev.tistory.com/627) <sub>2026-09-23</sub>
-- [Claude Max 가격 정리 &mdash; Pro와 뭐가 다르고 누가 써야 하나](https://hgko-dev.tistory.com/626) <sub>2026-09-22</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
