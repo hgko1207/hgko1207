@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Claude Code 클라우드 세션 $250 크레딧 &mdash; 받는 법과 로컬 대신 쓸 때](https://hgko-dev.tistory.com/632) <sub>2026-10-01</sub>
+<!-- BLOG-POST-LIST:START -->- [Opus 5.5 effort 고르는 법 &mdash; medium이 기본, high&middot;max는 언제](https://hgko-dev.tistory.com/633) <sub>2026-10-02</sub>
+- [Claude Code 클라우드 세션 $250 크레딧 &mdash; 받는 법과 로컬 대신 쓸 때](https://hgko-dev.tistory.com/632) <sub>2026-10-01</sub>
 - [Claude Opus 5.5 프롬프트 팁 7가지 &mdash; CLAUDE.md에 넣을 문장까지](https://hgko-dev.tistory.com/631) <sub>2026-09-30</sub>
 - [Claude 스킬 만들기 &mdash; 반복 작업을 SKILL.md 하나로 (5분)](https://hgko-dev.tistory.com/630) <sub>2026-09-29</sub>
 - [스킬 vs 에이전트 &mdash; 에이전트 말고 스킬? 언제 뭘 쓰나](https://hgko-dev.tistory.com/629) <sub>2026-09-28</sub>
-- [Claude Code 업데이트, 지금 켜둘 것 6가지 (매주 쏟아지는 것 중)](https://hgko-dev.tistory.com/628) <sub>2026-09-27</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
