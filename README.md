@@ -35,11 +35,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [GPT-6 모델 4종 정리 &mdash; 작업별로 뭘 쓰면 되나](https://hgko-dev.tistory.com/636) <sub>2026-10-06</sub>
+<!-- BLOG-POST-LIST:START -->- [Claude Code 잘 쓰고 있나? 자가 진단 10문항과 읽을 글](https://hgko-dev.tistory.com/637) <sub>2026-10-07</sub>
+- [GPT-6 모델 4종 정리 &mdash; 작업별로 뭘 쓰면 되나](https://hgko-dev.tistory.com/636) <sub>2026-10-06</sub>
 - [Gemini 4 Argon 정리 &mdash; 아직 못 쓰는데 지금 챙겨야 하나](https://hgko-dev.tistory.com/635) <sub>2026-10-05</sub>
 - [Claude Opus 5.5 정리 &mdash; Fable 5.1 대신 써도 되나](https://hgko-dev.tistory.com/634) <sub>2026-10-03</sub>
 - [Opus 5.5 effort 고르는 법 &mdash; medium이 기본, high&middot;max는 언제](https://hgko-dev.tistory.com/633) <sub>2026-10-02</sub>
-- [Claude Code 클라우드 세션 $250 크레딧 &mdash; 받는 법과 로컬 대신 쓸 때](https://hgko-dev.tistory.com/632) <sub>2026-10-01</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [블로그 전체 글 보러가기](https://hgko-dev.tistory.com/)
