@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codex CLI 설치&middot;사용법 (Windows, Claude Code와 비교해 보기)](https://hgko-dev.tistory.com/639) <sub>2026-10-09</sub>
 - [클로드 디자인 프롬프트 쓰는 법: 4요소 공식과 복사해 쓰는 템플릿 4개](https://hgko-dev.tistory.com/638) <sub>2026-10-08</sub>
 - [Claude Code 잘 쓰고 있나? 자가 진단 10문항과 읽을 글](https://hgko-dev.tistory.com/637) <sub>2026-10-07</sub>
 - [GPT-6 모델 4종 정리 &mdash; 작업별로 뭘 쓰면 되나](https://hgko-dev.tistory.com/636) <sub>2026-10-06</sub>
 - [Gemini 4 Argon 정리 &mdash; 아직 못 쓰는데 지금 챙겨야 하나](https://hgko-dev.tistory.com/635) <sub>2026-10-05</sub>
-- [Claude Opus 5.5 정리 &mdash; Fable 5.1 대신 써도 되나](https://hgko-dev.tistory.com/634) <sub>2026-10-03</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
