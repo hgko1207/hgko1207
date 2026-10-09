@@ -16,10 +16,11 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://hgko-dev.tistory.com/rss"
-          max_post_count: 5
+          max_post_count: 3
           template: "- [$title]($url) <sub>$date</sub>$newline"
           date_format: "yyyy-mm-dd"
           disable_html_encoding: true
+          tag_post_pre_newline: true
           commit_message: "chore: sync latest blog posts"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           accept_header: "*/*"
