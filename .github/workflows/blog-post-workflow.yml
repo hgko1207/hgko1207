@@ -16,7 +16,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://hgko-dev.tistory.com/rss"
-          max_post_count: 3
+          max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
           date_format: "yyyy-mm-dd"
           disable_html_encoding: true
