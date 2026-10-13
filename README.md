@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Work, Claude 코워크 쓰면 갈아탈 이유 있나? 기능 10가지 비교](https://hgko-dev.tistory.com/643) <sub>2026-10-13</sub>
 - [티스토리&middot;네이버 블로그 SEO 점검: 글에서 고칠 것만 골라 주는 무료 도구](https://hgko-dev.tistory.com/642) <sub>2026-10-12</sub>
 - [개발](https://hgko-dev.tistory.com/pages/%EA%B0%9C%EB%B0%9C) <sub>2026-10-11</sub>
 - [클로드 디자인에 브랜드 입히기: 디자인 시스템 등록 3가지 방법](https://hgko-dev.tistory.com/640) <sub>2026-10-11</sub>
 - [Codex CLI 설치&middot;사용법 (Windows, Claude Code와 비교해 보기)](https://hgko-dev.tistory.com/639) <sub>2026-10-09</sub>
-- [클로드 디자인 프롬프트 쓰는 법: 4요소 공식과 복사해 쓰는 템플릿 4개](https://hgko-dev.tistory.com/638) <sub>2026-10-08</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
