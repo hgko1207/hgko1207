@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [나노바나나 2.1 한글 되나? 바뀐 점 6가지와 쓰는 법](https://hgko-dev.tistory.com/648) <sub>2026-10-20</sub>
 - [Gemini 4 Argon 사용법: 앱&middot;API에서 쓰는 법과 12월 가격](https://hgko-dev.tistory.com/647) <sub>2026-10-19</sub>
 - [Claude Code 설치, VS Code 확장 쓰면 따로 필요할까? (Windows)](https://hgko-dev.tistory.com/646) <sub>2026-10-18</sub>
 - [Claude Code 모델 변경하는 법 (Sonnet 5.5&middot;Opus 5.5 언제 쓰나)](https://hgko-dev.tistory.com/645) <sub>2026-10-15</sub>
 - [Claude Code 사용량 확인하는 법: 5시간&middot;주간 한도와 줄이는 순서 5가지](https://hgko-dev.tistory.com/644) <sub>2026-10-14</sub>
-- [ChatGPT Work, Claude 코워크 쓰면 갈아탈 이유 있나? 기능 10가지 비교](https://hgko-dev.tistory.com/643) <sub>2026-10-13</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
