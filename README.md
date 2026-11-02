@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Impeccable critique 6번 돌려 보니: 점수보다 P1 목록을 봐야 하는 이유](https://hgko-dev.tistory.com/654) <sub>2026-11-02</sub>
 - [Superpowers 플러그인 사용법 (테스트부터 쓰게 하는 Claude Code 7단계)](https://hgko-dev.tistory.com/653) <sub>2026-10-30</sub>
 - [클로드 디자인 단독 사이트 12월 14일 종료, 옮길 때 챙길 3가지](https://hgko-dev.tistory.com/652) <sub>2026-10-28</sub>
 - [Graphify 토큰 절약 실측: grep보다 3배 커진 검색도 있다](https://hgko-dev.tistory.com/651) <sub>2026-10-25</sub>
 - [GitHub Copilot 요금제 4가지: Pro $10 크레딧으로 얼마나 쓰나](https://hgko-dev.tistory.com/650) <sub>2026-10-23</sub>
-- [수노 AI 무료로 만든 노래, 어디까지 쓸 수 있나? (다운로드 7곡&middot;v6)](https://hgko-dev.tistory.com/649) <sub>2026-10-21</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
