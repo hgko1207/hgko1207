@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VS Code 코딩 폰트 추천: 7가지 비교해 보니 한글 주석엔 D2Coding](https://hgko-dev.tistory.com/656) <sub>2026-11-04</sub>
 - [클로드 스킬 추천, 용도별로 고른 9가지와 건너뛸 것](https://hgko-dev.tistory.com/655) <sub>2026-11-03</sub>
 - [Impeccable critique 6번 돌려 보니: 점수보다 P1 목록을 봐야 하는 이유](https://hgko-dev.tistory.com/654) <sub>2026-11-02</sub>
 - [Superpowers 플러그인 사용법 (테스트부터 쓰게 하는 Claude Code 7단계)](https://hgko-dev.tistory.com/653) <sub>2026-10-30</sub>
 - [클로드 디자인 단독 사이트 12월 14일 종료, 옮길 때 챙길 3가지](https://hgko-dev.tistory.com/652) <sub>2026-10-28</sub>
-- [Graphify 토큰 절약 실측: grep보다 3배 커진 검색도 있다](https://hgko-dev.tistory.com/651) <sub>2026-10-25</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
