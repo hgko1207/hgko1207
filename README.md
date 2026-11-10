@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5.2, Opus 5.5 대신 쓸 작업 2가지와 20% 내린 가격](https://hgko-dev.tistory.com/662) <sub>2026-11-10</sub>
 - [Claude Code 권한 설정: auto 모드에서도 넣어 둘 안전장치 5가지](https://hgko-dev.tistory.com/661) <sub>2026-11-09</sub>
 - [클로드 frontend-design 스킬 설치법, Impeccable과 나눠 쓰는 기준](https://hgko-dev.tistory.com/660) <sub>2026-11-08</sub>
 - [클로드 스킬 설치 방법 3가지와 안 보일 때 확인할 5가지 (앱, Claude Code)](https://hgko-dev.tistory.com/659) <sub>2026-11-07</sub>
 - [클로드 대시보드 사용법 4단계, 클로드 디자인과 다른 점](https://hgko-dev.tistory.com/658) <sub>2026-11-06</sub>
-- [GPT-6.1 Terra 정리: Sol과 다른 점, 가격, Codex에서 쓰는 법](https://hgko-dev.tistory.com/657) <sub>2026-11-05</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
