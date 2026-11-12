@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [클로드 슬라이드 만들기 (Claude Code /slides로 5분 초안, PPT 내보내기까지)](https://hgko-dev.tistory.com/664) <sub>2026-11-12</sub>
 - [Claude Code 아티팩트 사용법: 작업 결과를 웹 페이지로 받는 법과 쓸 곳 4가지](https://hgko-dev.tistory.com/663) <sub>2026-11-11</sub>
 - [Claude Fable 5.2, Opus 5.5 대신 쓸 작업 2가지와 20% 내린 가격](https://hgko-dev.tistory.com/662) <sub>2026-11-10</sub>
 - [Claude Code 권한 설정: auto 모드에서도 넣어 둘 안전장치 5가지](https://hgko-dev.tistory.com/661) <sub>2026-11-09</sub>
 - [클로드 frontend-design 스킬 설치법, Impeccable과 나눠 쓰는 기준](https://hgko-dev.tistory.com/660) <sub>2026-11-08</sub>
-- [클로드 스킬 설치 방법 3가지와 안 보일 때 확인할 5가지 (앱, Claude Code)](https://hgko-dev.tistory.com/659) <sub>2026-11-07</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
