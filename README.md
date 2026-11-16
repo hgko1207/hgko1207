@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UI UX Pro Max 사용법: Claude Code에서 설치부터 한글 글꼴까지](https://hgko-dev.tistory.com/668) <sub>2026-11-16</sub>
 - [Claude Code 실험 기능 Code Mode 켜는 법 (VS Code 터미널, Windows)](https://hgko-dev.tistory.com/667) <sub>2026-11-15</sub>
 - [클로드 카카오톡 연동 방법, PlayMCP로 나와의 채팅방에 결과 받기](https://hgko-dev.tistory.com/666) <sub>2026-11-14</sub>
 - [REA MCP 사용법: Claude Code로 소스 없이 사이트 분석 (Windows)](https://hgko-dev.tistory.com/665) <sub>2026-11-13</sub>
 - [클로드 슬라이드 만들기 (Claude Code /slides로 5분 초안, PPT 내보내기까지)](https://hgko-dev.tistory.com/664) <sub>2026-11-12</sub>
-- [Claude Code 아티팩트 사용법: 작업 결과를 웹 페이지로 받는 법과 쓸 곳 4가지](https://hgko-dev.tistory.com/663) <sub>2026-11-11</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
