@@ -67,11 +67,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [앱인토스 미니앱 출시 방법 (사업자등록 없이 검수부터 검색 노출까지)](https://hgko-dev.tistory.com/673) <sub>2026-11-22</sub>
 - [Codex 플러그인 설치와 사용법 (Claude Code에서 코드 리뷰 받기)](https://hgko-dev.tistory.com/672) <sub>2026-11-20</sub>
 - [앱인토스 미니앱 만들기: Claude Code로 토스 앱에서 열기까지 4단계](https://hgko-dev.tistory.com/671) <sub>2026-11-19</sub>
 - [Gemini 4 Carbon과 Hydrogen, Argon과 나눠 쓰는 기준과 12월 가격](https://hgko-dev.tistory.com/670) <sub>2026-11-18</sub>
 - [앱인토스 MCP를 Claude Code에 연결하는 방법, 설치 중 막힌 2곳과 해결](https://hgko-dev.tistory.com/669) <sub>2026-11-17</sub>
-- [UI UX Pro Max 사용법: Claude Code에서 설치부터 한글 글꼴까지](https://hgko-dev.tistory.com/668) <sub>2026-11-16</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
