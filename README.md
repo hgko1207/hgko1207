@@ -1,7 +1,7 @@
 <!-- Header: Typing SVG -->
 <div align="center">
   <a href="https://hgko-dev.tistory.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ko+Coding+%F0%9F%91%8B;15%2B+yrs+Full-Stack+Engineer;Building+with+Claude+Code;Writing+at+hgko-dev.tistory.com" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ko+Coding+%F0%9F%91%8B;15%2B+yrs+Full-Stack+Engineer;Building+with+Claude+Code;Free+tools+at+hgko.dev;Writing+at+hgko-dev.tistory.com" alt="typing header" />
   </a>
 </div>
 
@@ -20,6 +20,7 @@ role:     "Full-Stack Engineer · 15+ years · Freelancer"
 based:    "Daejeon, Korea"
 focus:    ["Web Apps", "Windows Desktop Apps", "Claude Code를 실무에 붙이는 일"]
 daily:    ["Claude Code", "Claude Max"]
+building: "hgko.dev — 가입 없이 바로 쓰는 무료 도구와 AI 코딩 자료"
 writing:  "hgko-dev.tistory.com — 4년째 기술 블로그 운영 중"
 motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 ```
@@ -36,18 +37,24 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 | 프로젝트 | 설명 | 바로가기 |
 |---|---|:---:|
-| [**claude-code-starter-kit**](https://github.com/hgko1207/claude-code-starter-kit) | Claude Code 첫 세팅 키트. CLAUDE.md 템플릿, 비밀 파일·위험 명령 차단 훅, 권한 설정, `/commit` 스킬. jq 없이 Node만으로 동작 | [📦 Release](https://github.com/hgko1207/claude-code-starter-kit/releases) |
-| [**ai-cost-calc**](https://github.com/hgko1207/ai-cost-calc) | 쓰는 패턴을 고르면 Claude·GPT·Gemini 구독 요금제를 추천하고, 같은 양을 API로 쓰면 원화로 얼마인지 비교 | [🔗 Live](https://hgko1207.github.io/ai-cost-calc/) |
-| [**awesome-ai-coding-kr**](https://github.com/hgko1207/awesome-ai-coding-kr) | 직접 써본 AI 코딩 도구를 솔직한 한국어 한 줄 평·별점으로 모은 큐레이션. GitHub Actions가 매일 갱신 | [🔗 Live](https://hgko1207.github.io/awesome-ai-coding-kr/) |
-| [**daily-news**](https://github.com/hgko1207/daily-news) | Claude가 매일 아침 조사·작성·커밋하는 개인 브리핑 아카이브 (경제·기술·개발 등 6개 주제) | [📱 PWA](https://hgko1207.github.io/daily-news/) |
+| [**cc-ready**](https://github.com/hgko1207/cc-ready) | 명령 하나로 내 저장소에 맞는 Claude Code 세팅(CLAUDE.md, 권한, 안전장치, 작업 순서)을 넣는 무료 플러그인. 한국어, Windows·VS Code 지원 | [🔗 Live](https://setup.hgko.dev/) |
+| **스킬맵** | Claude Code·Cursor·Codex에서 쓸 만한 스킬, 플러그인, MCP 서버를 언제 쓰면 좋은지와 설치 방법까지 한국어로 정리한 카탈로그 | [🔗 Live](https://skills.hgko.dev/) |
+| [**awesome-ai-coding-kr**](https://github.com/hgko1207/awesome-ai-coding-kr) | AI 코딩 도구를 한국어 한 줄 평으로 정리한 큐레이션. 직접 써 본 도구는 별점, GitHub Actions가 매일 갱신 | [🔗 Live](https://hgko1207.github.io/awesome-ai-coding-kr/) |
+| [**ai-cost-calc**](https://github.com/hgko1207/ai-cost-calc) | 쓰는 패턴을 고르면 Claude·GPT·Gemini 구독 요금제를 추천하고, 같은 양을 API로 쓰면 원화로 얼마인지 비교 | [🔗 Live](https://calc.hgko.dev/) |
+| [**claude-code-starter-kit**](https://github.com/hgko1207/claude-code-starter-kit) | Claude Code 첫 세팅 키트(라이트). CLAUDE.md 템플릿, 비밀 파일·위험 명령 차단 훅, 권한 설정, `/commit` 스킬. Node만으로 동작 | [📦 Release](https://github.com/hgko1207/claude-code-starter-kit/releases) |
+| [**daily-news**](https://github.com/hgko1207/daily-news) | Claude가 매일 아침 조사·작성·커밋하는 개인 브리핑 아카이브 (경제·기술·개발 등 6개 주제) | [📱 PWA](https://news.hgko.dev/) |
 | [**claude-toolkit**](https://github.com/hgko1207/claude-toolkit) | Claude Code용 스킬·에이전트 템플릿 (planner → implementer → reviewer 흐름) | — |
 
 **웹 서비스 · 데스크톱 앱**
 
 | 프로젝트 | 설명 | 바로가기 |
 |---|---|:---:|
-| [**devbox**](https://github.com/hgko1207/devbox) | 브라우저에서만 동작하는 한국어 개발자 도구 모음. 외부 요청 0, JSON·Base64·JWT 등 | [🔗 Live](https://hgko1207.github.io/devbox/) |
-| [**data-weave**](https://github.com/hgko1207/data-weave) | 한국 공공데이터 위젯 대시보드. 날씨·병원/약국·식품 리콜·재난문자·실거래가를 한 곳에서 | [🔗 Live](https://data-weave-psi.vercel.app) |
+| **규니의 도구함** | 만 나이, 평수, 대출, JSON까지 가입 없이 브라우저에서 바로 쓰는 무료 도구 모음 (devbox를 합침) | [🔗 Live](https://hgko.dev/) |
+| **글점검** | 블로그 글 주소만 넣으면 검색 노출, 제목, 설명문, 대체 텍스트 등 12가지 SEO 항목을 점검 (티스토리·네이버) | [🔗 Live](https://seo.hgko.dev/) |
+| [**pill-check**](https://github.com/hgko1207/pill-check) | 약똑똑. 부모님 영양제·일반의약품 상호작용을 바코드 한 번에 확인하는 PWA | [📱 PWA](https://pill.hgko.dev/) |
+| [**moabom**](https://github.com/hgko1207/moabom) | 모아봄. 부모가 고른 공식 유튜브 영상만 순서대로 보여 주는 가족용 웹앱 | [🔗 Live](https://moabom.hgko.dev/) |
+| [**kids-stamp-app**](https://github.com/hgko1207/kids-stamp-app) | 우리아이 칭찬 달력. 칭찬 도장을 모으는 아이용 웹앱 | [🔗 Live](https://stamp.hgko.dev/) |
+| [**data-weave**](https://github.com/hgko1207/data-weave) | 한국 공공데이터 위젯 대시보드. 날씨·병원/약국·식품 리콜·재난문자·실거래가를 한 곳에서 | — |
 | [**teacher-desktop-widget**](https://github.com/hgko1207/teacher-desktop-widget) | 교사용 데스크톱 위젯. 시간표·급식·학사일정(NEIS)·미세먼지를 한 화면에 (Electron + React) | — |
 | [**job-catch**](https://github.com/hgko1207/job-catch) | 특수교육 진로탐색 수업 앱. 중·고 8차시, 교사연구회 연구 프로토타입 | — |
 
