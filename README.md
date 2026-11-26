@@ -41,11 +41,9 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 | **스킬맵** | Claude Code·Cursor·Codex에서 쓸 만한 스킬, 플러그인, MCP 서버를 언제 쓰면 좋은지와 설치 방법까지 한국어로 정리한 카탈로그 | [🔗 Live](https://skills.hgko.dev/) |
 | [**awesome-ai-coding-kr**](https://github.com/hgko1207/awesome-ai-coding-kr) | AI 코딩 도구를 한국어 한 줄 평으로 정리한 큐레이션. 직접 써 본 도구는 별점, GitHub Actions가 매일 갱신 | [🔗 Live](https://hgko1207.github.io/awesome-ai-coding-kr/) |
 | [**ai-cost-calc**](https://github.com/hgko1207/ai-cost-calc) | 쓰는 패턴을 고르면 Claude·GPT·Gemini 구독 요금제를 추천하고, 같은 양을 API로 쓰면 원화로 얼마인지 비교 | [🔗 Live](https://calc.hgko.dev/) |
-| [**claude-code-starter-kit**](https://github.com/hgko1207/claude-code-starter-kit) | Claude Code 첫 세팅 키트(라이트). CLAUDE.md 템플릿, 비밀 파일·위험 명령 차단 훅, 권한 설정, `/commit` 스킬. Node만으로 동작 | [📦 Release](https://github.com/hgko1207/claude-code-starter-kit/releases) |
 | [**daily-news**](https://github.com/hgko1207/daily-news) | Claude가 매일 아침 조사·작성·커밋하는 개인 브리핑 아카이브 (경제·기술·개발 등 6개 주제) | [📱 PWA](https://news.hgko.dev/) |
-| [**claude-toolkit**](https://github.com/hgko1207/claude-toolkit) | Claude Code용 스킬·에이전트 템플릿 (planner → implementer → reviewer 흐름) | — |
 
-**웹 서비스 · 데스크톱 앱**
+**웹 서비스**
 
 | 프로젝트 | 설명 | 바로가기 |
 |---|---|:---:|
@@ -54,9 +52,18 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 | [**pill-check**](https://github.com/hgko1207/pill-check) | 약똑똑. 부모님 영양제·일반의약품 상호작용을 바코드 한 번에 확인하는 PWA | [📱 PWA](https://pill.hgko.dev/) |
 | [**moabom**](https://github.com/hgko1207/moabom) | 모아봄. 부모가 고른 공식 유튜브 영상만 순서대로 보여 주는 가족용 웹앱 | [🔗 Live](https://moabom.hgko.dev/) |
 | [**kids-stamp-app**](https://github.com/hgko1207/kids-stamp-app) | 우리아이 칭찬 달력. 칭찬 도장을 모으는 아이용 웹앱 | [🔗 Live](https://stamp.hgko.dev/) |
-| [**data-weave**](https://github.com/hgko1207/data-weave) | 한국 공공데이터 위젯 대시보드. 날씨·병원/약국·식품 리콜·재난문자·실거래가를 한 곳에서 | — |
-| [**teacher-desktop-widget**](https://github.com/hgko1207/teacher-desktop-widget) | 교사용 데스크톱 위젯. 시간표·급식·학사일정(NEIS)·미세먼지를 한 화면에 (Electron + React) | — |
-| [**job-catch**](https://github.com/hgko1207/job-catch) | 특수교육 진로탐색 수업 앱. 중·고 8차시, 교사연구회 연구 프로토타입 | — |
+
+<details>
+<summary><b>예전 개인 프로젝트</b></summary>
+<br>
+
+- [claude-code-starter-kit](https://github.com/hgko1207/claude-code-starter-kit) — Claude Code 첫 세팅 키트(라이트). 지금은 [cc-ready](https://github.com/hgko1207/cc-ready)가 이어받음
+- [claude-toolkit](https://github.com/hgko1207/claude-toolkit) — Claude Code용 스킬·에이전트 템플릿
+- [data-weave](https://github.com/hgko1207/data-weave) — 한국 공공데이터 위젯 대시보드 (Next.js)
+- [teacher-desktop-widget](https://github.com/hgko1207/teacher-desktop-widget) — 교사용 데스크톱 위젯. 시간표·급식·학사일정 (Electron + React)
+- [job-catch](https://github.com/hgko1207/job-catch) — 특수교육 진로탐색 수업 앱. 교사연구회 연구 프로토타입
+
+</details>
 
 <details>
 <summary><b>그동안 실무에서 만든 것들 (2019~)</b></summary>
