@@ -81,11 +81,11 @@ motto:    "맡은 일에 책임감을, 새 기술엔 거부감 없이."
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code 앱 디자인 레퍼런스, 디자인 시스템 5곳으로 받은 시안 7개](https://hgko-dev.tistory.com/677) <sub>2026-11-27</sub>
 - [클로드 코드 하네스 정리법: 안 쓰는 스킬 골라 끄는 기준 3가지](https://hgko-dev.tistory.com/676) <sub>2026-11-26</sub>
 - [Chrome DevTools MCP로 웹 속도와 오류 검사 (Claude Code)](https://hgko-dev.tistory.com/675) <sub>2026-11-24</sub>
 - [Claude Code 세팅을 명령 하나로: 무료 플러그인을 내 저장소에 넣어 본 20분](https://hgko-dev.tistory.com/674) <sub>2026-11-23</sub>
 - [앱인토스 미니앱 출시 방법 (사업자등록 없이 검수부터 검색 노출까지)](https://hgko-dev.tistory.com/673) <sub>2026-11-22</sub>
-- [Codex 플러그인 설치와 사용법 (Claude Code에서 코드 리뷰 받기)](https://hgko-dev.tistory.com/672) <sub>2026-11-20</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
